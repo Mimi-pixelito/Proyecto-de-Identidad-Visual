@@ -1,1 +1,3 @@
 # Proyecto-de-Identidad-Visual
+
+Este proyecto lo iniciamos mi compañero Hernán Narváez y mi persona Miranda Brito por medio de la extensión de LiveShare para trabajar de forma coperativa. La idea de esta app, Netstream, es para tener una guía sobre peliculas. En donde el usuario pueda tener información de ellas y que esta sea precisa. El desarrollo de la app con parte del diseño y estetica ya establecido fue bastante manejable, ademas de que al trabajar en colaborativo era bastante facil ir desarrollando ideas y mejorando ciertas cositas.
